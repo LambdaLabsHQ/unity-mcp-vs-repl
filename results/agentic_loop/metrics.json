@@ -1,0 +1,11 @@
+{
+  "experiment": "Agentic Loop Live Unity Control",
+  "mcp_baseline": "code-writing external edit/compile/run/evaluate loop",
+  "repl_surface": "live C# eval on Unity Editor Main Thread",
+  "live_objects_controlled": 4,
+  "project_member_calls": ["AgenticDoor.UnlockForAgent", "AgenticLaser.SuppressForSeconds", "AgenticBridge.Extend", "AgenticBot.MarkExit"],
+  "repl_evaluations": 4,
+  "mcp_attempts_completed_in_video": 2,
+  "mcp_end_to_end_pass": false,
+  "repl_end_to_end_pass": true
+}
