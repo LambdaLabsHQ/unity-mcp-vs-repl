@@ -11,11 +11,11 @@ across frames, and adapt until the end-to-end objective is true.
 ## Demo Video
 
 <!-- VIDEO_EMBED_START -->
-The comparison video is generated at:
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/11ebe465-468a-4629-af14-59719fab8e8d" controls width="100%"></video>
+</p>
 
-```text
-results/agentic_loop_recording/mcp_vs_repl_agentic_loop.mp4
-```
+Issue attachment: https://github.com/LambdaLabsHQ/unity-mcp-vs-repl/issues/1
 <!-- VIDEO_EMBED_END -->
 
 ## Thesis
